@@ -1,4 +1,4 @@
-![Preview](./.github/Preview.png)
+![Preview](./Preview.png)
 
 Projeto construído do evento Next Level Week Rocketseat.
 
