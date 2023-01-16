@@ -2,7 +2,7 @@
 
 Projeto construído do evento Next Level Week Rocketseat.
 
-![clique aqui para acessar](https://caslulucas.github.io/begin/index2.html)
+![clique aqui para acessar](https://caslulucas.github.io/begin/index.html)
 ## Tecnologias
 
 - HTML
